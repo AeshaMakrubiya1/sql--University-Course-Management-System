@@ -61,5 +61,3 @@ Advanced relational database designs for complex data structures.
 
 **Aesha Makrubiya**
 ---
-
-**Would you like me to generate a combined "Master Installation" script to set up all Python dependencies at once?**
